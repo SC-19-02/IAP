@@ -1,8 +1,7 @@
 <?php
-
 require __DIR__ . '/../autoload.php';
 
-$greetings = new Greetings(); // makes a new "Greetings" object
+$greetings = new Greetings(); 
 $helpers = new Helpers(); 
 $forms = new UserForms();
 
@@ -15,5 +14,4 @@ $forms->registerForm();
 
 $helpers->showFooter($site_name);
 
-?>
 

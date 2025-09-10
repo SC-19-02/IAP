@@ -1,5 +1,4 @@
 <?php
-
 class Greetings {
 
     public function sayHello() {
@@ -11,4 +10,4 @@ class Greetings {
         return "<p>Today is <strong>" . $day . "</strong></p>";
     }
 }
-?>
+

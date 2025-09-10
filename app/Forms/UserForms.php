@@ -8,8 +8,8 @@ class UserForms {
             <h2>Register</h2>
 
             <p>
-                <label for="fullname">Full Name:</label>
-                <input type="text" id="fullname" name="fullname" required>
+                <label for="fullname">Name:</label>
+                <input type="text" id="name" name="name" required>
             </p>
 
             <p>
@@ -25,11 +25,6 @@ class UserForms {
             <p>
                 <label for="password">Create Password:</label>
                 <input type="password" id="password" name="password" required>
-            </p>
-
-            <p>
-                <label for="confirm_password">Confirm Password:</label>
-                <input type="password" id="confirm_password" name="confirm_password" required>
             </p>
 
             <button type="submit">Register</button>

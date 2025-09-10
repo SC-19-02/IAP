@@ -5,6 +5,8 @@ class Helpers {
     }
 
     public function showFooter($siteName) {
-        echo "<footer><p>&copy; $siteName " . date("Y") . "</p></footer>";
+        echo "<footer>
+                <p>&copy; " . date("Y") . " $siteName. All rights reserved.</p>
+            </footer>";
     }
 }
