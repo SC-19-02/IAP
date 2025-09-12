@@ -1,0 +1,9 @@
+8605bb6 - Sheel Chudasama, 36 seconds ago : Delete git_workflow.txt
+fa00780 - Sheel Chudasama, 5 minutes ago : Create git_workflow.txt
+2bca88f - Sheel Chudasama, 25 hours ago : Update config.php
+4e2e765 - Sheel Chudasama, 26 hours ago : Update README.md
+6432265 - Sheel Chudasama, 2 days ago : Update README.md
+1d2b4fa - Sheel Chudasama, 2 days ago : Create README.md
+2aa99ea - Shchuda, 2 days ago : Made changes to the code and added the images folder
+4fbcbfe - Sheel Chudasama, 2 days ago : Deleted Passwords directory
+9acdaf2 - Shchuda, 8 days ago : Full replacement of repo
